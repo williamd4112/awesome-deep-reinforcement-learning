@@ -9,7 +9,7 @@ A collection of resources about deep reinforcement learning
 - https://arxiv.org/abs/1509.06461 (Deep reinforcement learning with double Q Learning)
 - https://arxiv.org/pdf/1603.00748v1.pdf (Deep Q learning with NAF)
 - http://jmlr.org/proceedings/papers/v32/silver14.pdf (Deterministic policy gradient)
-- https://arxiv.org/abs/1603.00748 (Continuous control with deep reinforcement learning) (DDPG)
+- https://arxiv.org/pdf/1509.02971v5.pdf (Continuous control with deep reinforcement learning) (DDPG)
 - https://arxiv.org/abs/1602.01783 (Asynchronous Methods for Deep Reinforcement Learning) (A3C)
 - https://arxiv.org/abs/1511.06295 (Policy distillation)
 - https://arxiv.org/pdf/1605.09128v1.pdf (Control of Memory, Active Perception, and Action in Minecraft)
