@@ -15,6 +15,7 @@ A collection of resources about deep reinforcement learning
 - https://arxiv.org/pdf/1605.09128v1.pdf (Control of Memory, Active Perception, and Action in Minecraft)
 - https://arxiv.org/pdf/1606.01868v2.pdf (Unifying Count-Based Exploration and Intrinsic Motivation)
 - https://arxiv.org/pdf/1507.00814v3.pdf (Incentivizing Exploration In Reinforcement Learning With Deep Predictive Models)
+- https://arxiv.org/pdf/1507.08750v2.pdf (Action-Conditional Video Prediction using Deep Networks in Atari Games)
 
 # Tutorial
 - http://icml.cc/2016/tutorials/deep_rl_tutorial.pdf (ICML 2016, Deep Reinforcement Learning tutorial)
