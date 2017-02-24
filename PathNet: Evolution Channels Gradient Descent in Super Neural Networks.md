@@ -1,0 +1,8 @@
+# PathNet: Evolution Channels Gradient Descent in Super Neural Networks
+
+## Summary
+In PathNet, they propose a evolutionary architecture for transfer learning purpose. Nowadays transfer learning has been a hot topic in Machine Learning field. Human can learn new things based on prior experience and knowledges. However, state-of-the-art deep learning algorithms are always designed to learn from scratch, which is said to be inefficient.  The author says that he was inspired by Progressive Neural Network, Mixture of Expert and Convolutional Neural Fabric. Progressive Neural Network proposes a new transfer learning architecture to avoid catastrophic forgetting prior knowledges which is an critical issue in fine-tuning.  Mixtrue of Exeprt architecture is often uesd at Machnie translation. The main idea of Mixture of Expert is to train a gating network to blend each pre-traiend model. Convolutional Neural Fabric proposes a architecture optimization alogrithm. This algorithm can achieve the same performance with state-of-the-art algorithm with fewer parameters.
+Compared to the above related works, this paper propses a evolutioanry topology architecture however the previous works only use fixed topology.  PathNet combnies a ancient bio-inspired optimization algorithm, Genetic Programming with Deep Learning. PathNet utilize the Genetic Programming to optimize topology between layers. For avoiding catastrophic forgettnig, the optimal parameters and path would be fixed after training.  
+
+## Comment
+This architecture is a great transfer learning solution. However, there is no multi-task ability in PathNet. 
